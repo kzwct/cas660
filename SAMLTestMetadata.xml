@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor entityID="http://www.okta.com/exk16m7z3sdsBAWFI0h8" xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata"><md:IDPSSODescriptor WantAuthnRequestsSigned="false" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol"><md:KeyDescriptor use="signing"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIIDpDCCAoygAwIBAgIGAX/i1YTfMA0GCSqGSIb3DQEBCwUAMIGSMQswCQYDVQQGEwJVUzETMBEG
+A1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNjbzENMAsGA1UECgwET2t0YTEU
+MBIGA1UECwwLU1NPUHJvdmlkZXIxEzARBgNVBAMMCmRldi03NDAwMjcxHDAaBgkqhkiG9w0BCQEW
+DWluZm9Ab2t0YS5jb20wHhcNMjIwNDAxMDE1NDE4WhcNMzIwNDAxMDE1NTE4WjCBkjELMAkGA1UE
+BhMCVVMxEzARBgNVBAgMCkNhbGlmb3JuaWExFjAUBgNVBAcMDVNhbiBGcmFuY2lzY28xDTALBgNV
+BAoMBE9rdGExFDASBgNVBAsMC1NTT1Byb3ZpZGVyMRMwEQYDVQQDDApkZXYtNzQwMDI3MRwwGgYJ
+KoZIhvcNAQkBFg1pbmZvQG9rdGEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+xfSHlMm06YBBz+t3aCDl8a1acdax83R2eDyxreYc5JrT7oCTVkczVbZG8ivi/lS6f56VraAr5DUn
+mwnxCi2S+iUkBqEhvjcUY3zX+BzbFUwCHMy3rH7IP0cLyc6pFx9Fa7tGXdY3tYK4W54YLKXrm68Z
+env9iv+OoxJqc8m1iy/A3hfK6mTr+kUmtRH6JxahOgeAD7Y4W/IpS/RdxmzhrqIe6ic+bHCYHHFE
+nskLNm5Y3p80JZBAlRcvVTA0hNdrTalz128Tm1cxZkmGg2a94WOab8Pd827Jy9NQmRN6Ap+9rs9b
+dLLbwmPdzDeb6V4JJxcf1vIPmMvLMLdAyljOxQIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQCFP0LQ
+mFH8yYnR0CoDMAOcDRK1/z0yrNwAT5fallEMqUW0xtTxNuECYHHUH6cYcFkLX1ue4NTjA1yRjaiG
+1LvUdviHapn2dRiH2u5kO2xURWuJ1ioASzuBYOeugvrf9xRnxcKPE52CWoFg+t0uqJ5FvUVOvjVK
+5qkvgP79AawDOCHN6LKRqjHl0w4Y7WFVXmsmBdSH8+Aij4uW2IHD+5pXmxshMSRAMIk4IqH02JlU
+R8M3OBy2XUjOjzo/nsIWjDnTRbHMsYU+pQ5UXs0P9TlSLkqJDdQzbYlWmuJ+eCJEHN9cYcsc08Vs
+zS9GG/O+NE/ADcvQzWPPF2Dmo0tZ3/v8</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress</md:NameIDFormat><md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://dev-740027.oktapreview.com/app/dev-740027_dev3mp_1/exk16m7z3sdsBAWFI0h8/sso/saml"/><md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://dev-740027.oktapreview.com/app/dev-740027_dev3mp_1/exk16m7z3sdsBAWFI0h8/sso/saml"/></md:IDPSSODescriptor></md:EntityDescriptor>
